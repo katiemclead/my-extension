@@ -1,0 +1,35 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="M}xvqGcKFkN/9YDosC{F" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="D$7^^B|qf5d./WZ:6:./"><value name="color"><shadow type="colorindexpicker" id="8j:k}_V[;8U)da0waJ#p"><field name="index">10</field></shadow></value><next><block type="particlesStartScreenAnimation" id="*bO_JV4,Z}x}y~n1P!+u"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><field name="effect">effects.hearts</field><value name="duration"><shadow type="timePicker" id="_=4.~Sj`x]Le}@n3A^o["><field name="ms">500</field></shadow></value><next><block type="device_pause" id="k4!p-3i!;@]jtkBO85}="><value name="pause"><shadow type="timePicker" id="zE7UO3jL!=-2rv{3r[gY"><field name="ms">3000</field></shadow></value><next><block type="game_dialog_set_frame" id="WYg62Gjo]l)#*XmEsX/F"><value name="frame"><shadow type="dialog_image_picker" id="r7vTFZ2MD6yqphp?D=3+"><field name="img">img`
+88888..8888888888888888....88888.
+87768888777877787778777888867778.
+87777686767876767678767688777778.
+87767767667676676676766786776768.
+8677676767767767677677678676778..
+.877768777686767776867678667768..
+.886668888888888888888888886688..
+.888888866666666666666668877768..
+88677786666666666666666668766778.
+87766686666666666666666668776678.
+87667786666666666666666668677778.
+87777686666666666666666668866888.
+88866886666666666666666668677778.
+87777686666666666666666668776678.
+87667786666666666666666668666778.
+87766786666666666666666668777688.
+88677786666666666666666668766778.
+87766686666666666666666668776678.
+87667786666666666666666668677778.
+87777686666666666666666668866888.
+88866886666666666666666668677778.
+87777686666666666666666668776678.
+87667786666666666666666668666778.
+87766786666666666666666668777688.
+.867778866666666666666668888888..
+.886688888888888888888888866688..
+.867766876768677767686777867778..
+.8776768767767767677677676767768.
+86767768766767667667676676776778.
+87777788676787676767876768677778.
+87776888877787778777877788886778.
+88888..88888888888888888....8888.
+.................................
+`</field><data>{"commentRefs":[],"fieldData":{"img":"r7vTFZ2MD6yqphp?D=3+"}}</data></shadow></value><next><block type="game_dialog_set_text_color" id="l=APjqKb1!d$E]DAWE@W"><value name="color"><shadow type="colorindexpicker" id="d`8P;[K$jl+86c^+**GV"><field name="index">8</field></shadow></value><next><block type="game_show_long_text" id=")iJ21N~`[5lfQGaGEM6,"><field name="layout">DialogLayout.Center</field><value name="str"><shadow type="text" id=":pxP8l8on{9{+(B~BH^6"><field name="TEXT">Welcome to your awesome game!</field></shadow></value><next><block type="particlesEndScreenAnimation" id="L!)Ff%#YEm+pGO:Y3{uu"><field name="effect">effects.hearts</field><next><block type="mixer_play_sound" id=":rUb3m4?S_RvH#[AReGH"><field name="sound">music.wawawawaa</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
