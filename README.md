@@ -1,5 +1,5 @@
  
-
+Nothing to see here! Just making an extension to show my students how to make and use an extension!
 
 > Open this page at [https://katiemclead.github.io/my-extension/](https://katiemclead.github.io/my-extension/)
 
